@@ -1,0 +1,127 @@
+test,PTAI measure,group,expected sign,rho,right_way,strength
+As built (full gap score),Jobs reachable in 45 min (share of GB),All,-,-0.1328,True,0.1328
+Provision only (access + supply),Jobs reachable in 45 min (share of GB),All,-,-0.4622,True,0.4622
+Supply only (buses per person),Jobs reachable in 45 min (share of GB),All,-,-0.3321,True,0.3321
+Within local authority: as built,Jobs reachable in 45 min (share of GB),All,-,-0.116,True,0.116
+Within local authority: provision only,Jobs reachable in 45 min (share of GB),All,-,-0.3091,True,0.3091
+Controlling for density: as built,Jobs reachable in 45 min (share of GB),All,-,-0.3185,True,0.3185
+As built (full gap score),Jobs reachable in 45 min (share of GB),Urban,-,-0.0266,True,0.0266
+Provision only (access + supply),Jobs reachable in 45 min (share of GB),Urban,-,-0.3507,True,0.3507
+Supply only (buses per person),Jobs reachable in 45 min (share of GB),Urban,-,-0.3111,True,0.3111
+Within local authority: as built,Jobs reachable in 45 min (share of GB),Urban,-,-0.0453,True,0.0453
+Within local authority: provision only,Jobs reachable in 45 min (share of GB),Urban,-,-0.2416,True,0.2416
+Controlling for density: as built,Jobs reachable in 45 min (share of GB),Urban,-,-0.2747,True,0.2747
+As built (full gap score),Jobs reachable in 45 min (share of GB),Rural,-,-0.4161,True,0.4161
+Provision only (access + supply),Jobs reachable in 45 min (share of GB),Rural,-,-0.4285,True,0.4285
+Supply only (buses per person),Jobs reachable in 45 min (share of GB),Rural,-,-0.3013,True,0.3013
+Within local authority: as built,Jobs reachable in 45 min (share of GB),Rural,-,-0.3278,True,0.3278
+Within local authority: provision only,Jobs reachable in 45 min (share of GB),Rural,-,-0.3435,True,0.3435
+Controlling for density: as built,Jobs reachable in 45 min (share of GB),Rural,-,-0.2486,True,0.2486
+As built (full gap score),Jobs reachable in 30 min,All,-,-0.1051,True,0.1051
+Provision only (access + supply),Jobs reachable in 30 min,All,-,-0.4608,True,0.4608
+Supply only (buses per person),Jobs reachable in 30 min,All,-,-0.3146,True,0.3146
+Within local authority: as built,Jobs reachable in 30 min,All,-,-0.0929,True,0.0929
+Within local authority: provision only,Jobs reachable in 30 min,All,-,-0.3219,True,0.3219
+Controlling for density: as built,Jobs reachable in 30 min,All,-,-0.2977,True,0.2977
+As built (full gap score),Jobs reachable in 30 min,Urban,-,0.0023,False,-0.0023
+Provision only (access + supply),Jobs reachable in 30 min,Urban,-,-0.3525,True,0.3525
+Supply only (buses per person),Jobs reachable in 30 min,Urban,-,-0.2981,True,0.2981
+Within local authority: as built,Jobs reachable in 30 min,Urban,-,-0.0215,True,0.0215
+Within local authority: provision only,Jobs reachable in 30 min,Urban,-,-0.2577,True,0.2577
+Controlling for density: as built,Jobs reachable in 30 min,Urban,-,-0.2593,True,0.2593
+As built (full gap score),Jobs reachable in 30 min,Rural,-,-0.3174,True,0.3174
+Provision only (access + supply),Jobs reachable in 30 min,Rural,-,-0.3407,True,0.3407
+Supply only (buses per person),Jobs reachable in 30 min,Rural,-,-0.2052,True,0.2052
+Within local authority: as built,Jobs reachable in 30 min,Rural,-,-0.2583,True,0.2583
+Within local authority: provision only,Jobs reachable in 30 min,Rural,-,-0.2815,True,0.2815
+Controlling for density: as built,Jobs reachable in 30 min,Rural,-,-0.1386,True,0.1386
+As built (full gap score),GPs reachable in 30 min,All,-,-0.0681,True,0.0681
+Provision only (access + supply),GPs reachable in 30 min,All,-,-0.4493,True,0.4493
+Supply only (buses per person),GPs reachable in 30 min,All,-,-0.3119,True,0.3119
+Within local authority: as built,GPs reachable in 30 min,All,-,-0.0525,True,0.0525
+Within local authority: provision only,GPs reachable in 30 min,All,-,-0.287,True,0.287
+Controlling for density: as built,GPs reachable in 30 min,All,-,-0.2382,True,0.2382
+As built (full gap score),GPs reachable in 30 min,Urban,-,0.0419,False,-0.0419
+Provision only (access + supply),GPs reachable in 30 min,Urban,-,-0.3457,True,0.3457
+Supply only (buses per person),GPs reachable in 30 min,Urban,-,-0.298,True,0.298
+Within local authority: as built,GPs reachable in 30 min,Urban,-,0.0106,False,-0.0106
+Within local authority: provision only,GPs reachable in 30 min,Urban,-,-0.2314,True,0.2314
+Controlling for density: as built,GPs reachable in 30 min,Urban,-,-0.2068,True,0.2068
+As built (full gap score),GPs reachable in 30 min,Rural,-,-0.2192,True,0.2192
+Provision only (access + supply),GPs reachable in 30 min,Rural,-,-0.2674,True,0.2674
+Supply only (buses per person),GPs reachable in 30 min,Rural,-,-0.1083,True,0.1083
+Within local authority: as built,GPs reachable in 30 min,Rural,-,-0.1729,True,0.1729
+Within local authority: provision only,GPs reachable in 30 min,Rural,-,-0.2099,True,0.2099
+Controlling for density: as built,GPs reachable in 30 min,Rural,-,-0.0308,True,0.0308
+As built (full gap score),Supermarkets reachable in 30 min,All,-,-0.0901,True,0.0901
+Provision only (access + supply),Supermarkets reachable in 30 min,All,-,-0.4485,True,0.4485
+Supply only (buses per person),Supermarkets reachable in 30 min,All,-,-0.3069,True,0.3069
+Within local authority: as built,Supermarkets reachable in 30 min,All,-,-0.0853,True,0.0853
+Within local authority: provision only,Supermarkets reachable in 30 min,All,-,-0.3009,True,0.3009
+Controlling for density: as built,Supermarkets reachable in 30 min,All,-,-0.2607,True,0.2607
+As built (full gap score),Supermarkets reachable in 30 min,Urban,-,0.0134,False,-0.0134
+Provision only (access + supply),Supermarkets reachable in 30 min,Urban,-,-0.3423,True,0.3423
+Supply only (buses per person),Supermarkets reachable in 30 min,Urban,-,-0.29,True,0.29
+Within local authority: as built,Supermarkets reachable in 30 min,Urban,-,-0.0192,True,0.0192
+Within local authority: provision only,Supermarkets reachable in 30 min,Urban,-,-0.2368,True,0.2368
+Controlling for density: as built,Supermarkets reachable in 30 min,Urban,-,-0.2271,True,0.2271
+As built (full gap score),Supermarkets reachable in 30 min,Rural,-,-0.2466,True,0.2466
+Provision only (access + supply),Supermarkets reachable in 30 min,Rural,-,-0.304,True,0.304
+Supply only (buses per person),Supermarkets reachable in 30 min,Rural,-,-0.1424,True,0.1424
+Within local authority: as built,Supermarkets reachable in 30 min,Rural,-,-0.1966,True,0.1966
+Within local authority: provision only,Supermarkets reachable in 30 min,Rural,-,-0.2357,True,0.2357
+Controlling for density: as built,Supermarkets reachable in 30 min,Rural,-,-0.0532,True,0.0532
+As built (full gap score),Minutes to nearest GP,All,+,0.0147,True,0.0147
+Provision only (access + supply),Minutes to nearest GP,All,+,0.2671,True,0.2671
+Supply only (buses per person),Minutes to nearest GP,All,+,0.1628,True,0.1628
+Within local authority: as built,Minutes to nearest GP,All,+,0.0129,True,0.0129
+Within local authority: provision only,Minutes to nearest GP,All,+,0.1762,True,0.1762
+Controlling for density: as built,Minutes to nearest GP,All,+,0.0897,True,0.0897
+As built (full gap score),Minutes to nearest GP,Urban,+,-0.0637,False,-0.0637
+Provision only (access + supply),Minutes to nearest GP,Urban,+,0.2039,True,0.2039
+Supply only (buses per person),Minutes to nearest GP,Urban,+,0.1585,True,0.1585
+Within local authority: as built,Minutes to nearest GP,Urban,+,-0.0458,False,-0.0458
+Within local authority: provision only,Minutes to nearest GP,Urban,+,0.1314,True,0.1314
+Controlling for density: as built,Minutes to nearest GP,Urban,+,0.0796,True,0.0796
+As built (full gap score),Minutes to nearest GP,Rural,+,0.2326,True,0.2326
+Provision only (access + supply),Minutes to nearest GP,Rural,+,0.2679,True,0.2679
+Supply only (buses per person),Minutes to nearest GP,Rural,+,0.1052,True,0.1052
+Within local authority: as built,Minutes to nearest GP,Rural,+,0.2077,True,0.2077
+Within local authority: provision only,Minutes to nearest GP,Rural,+,0.2381,True,0.2381
+Controlling for density: as built,Minutes to nearest GP,Rural,+,0.0411,True,0.0411
+As built (full gap score),Minutes to nearest supermarket,All,+,0.0782,True,0.0782
+Provision only (access + supply),Minutes to nearest supermarket,All,+,0.286,True,0.286
+Supply only (buses per person),Minutes to nearest supermarket,All,+,0.1675,True,0.1675
+Within local authority: as built,Minutes to nearest supermarket,All,+,0.0686,True,0.0686
+Within local authority: provision only,Minutes to nearest supermarket,All,+,0.2236,True,0.2236
+Controlling for density: as built,Minutes to nearest supermarket,All,+,0.1558,True,0.1558
+As built (full gap score),Minutes to nearest supermarket,Urban,+,-0.0062,False,-0.0062
+Provision only (access + supply),Minutes to nearest supermarket,Urban,+,0.1809,True,0.1809
+Supply only (buses per person),Minutes to nearest supermarket,Urban,+,0.1392,True,0.1392
+Within local authority: as built,Minutes to nearest supermarket,Urban,+,0.0017,True,0.0017
+Within local authority: provision only,Minutes to nearest supermarket,Urban,+,0.1573,True,0.1573
+Controlling for density: as built,Minutes to nearest supermarket,Urban,+,0.093,True,0.093
+As built (full gap score),Minutes to nearest supermarket,Rural,+,0.3094,True,0.3094
+Provision only (access + supply),Minutes to nearest supermarket,Rural,+,0.3565,True,0.3565
+Supply only (buses per person),Minutes to nearest supermarket,Rural,+,0.1878,True,0.1878
+Within local authority: as built,Minutes to nearest supermarket,Rural,+,0.255,True,0.255
+Within local authority: provision only,Minutes to nearest supermarket,Rural,+,0.2895,True,0.2895
+Controlling for density: as built,Minutes to nearest supermarket,Rural,+,0.107,True,0.107
+As built (full gap score),Minutes to nearest hospital,All,+,0.0859,True,0.0859
+Provision only (access + supply),Minutes to nearest hospital,All,+,0.3057,True,0.3057
+Supply only (buses per person),Minutes to nearest hospital,All,+,0.1905,True,0.1905
+Within local authority: as built,Minutes to nearest hospital,All,+,0.0868,True,0.0868
+Within local authority: provision only,Minutes to nearest hospital,All,+,0.2108,True,0.2108
+Controlling for density: as built,Minutes to nearest hospital,All,+,0.1885,True,0.1885
+As built (full gap score),Minutes to nearest hospital,Urban,+,-0.0001,False,-0.0001
+Provision only (access + supply),Minutes to nearest hospital,Urban,+,0.181,True,0.181
+Supply only (buses per person),Minutes to nearest hospital,Urban,+,0.1447,True,0.1447
+Within local authority: as built,Minutes to nearest hospital,Urban,+,0.0253,True,0.0253
+Within local authority: provision only,Minutes to nearest hospital,Urban,+,0.1368,True,0.1368
+Controlling for density: as built,Minutes to nearest hospital,Urban,+,0.1234,True,0.1234
+As built (full gap score),Minutes to nearest hospital,Rural,+,0.301,True,0.301
+Provision only (access + supply),Minutes to nearest hospital,Rural,+,0.3177,True,0.3177
+Supply only (buses per person),Minutes to nearest hospital,Rural,+,0.234,True,0.234
+Within local authority: as built,Minutes to nearest hospital,Rural,+,0.2631,True,0.2631
+Within local authority: provision only,Minutes to nearest hospital,Rural,+,0.2668,True,0.2668
+Controlling for density: as built,Minutes to nearest hospital,Rural,+,0.1769,True,0.1769

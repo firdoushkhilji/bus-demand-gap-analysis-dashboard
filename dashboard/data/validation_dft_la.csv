@@ -1,0 +1,4 @@
+Comparison,Spearman rho,n
+Modelled demand vs DfT journeys (totals),0.53,55
+"GTFS departures per 1,000 residents vs DfT journeys per head",0.88,55
+Demand-gap score vs DfT journeys per head,-0.42,55
