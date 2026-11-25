@@ -16,4 +16,4 @@ for m in modules:
         print(f"MISSING  {m}")
         missing.append(m)
 
-print("\nAll good." if not missing else "\nInstall the missing packages: pip install -r requirements.txt")
+print("\nAll good." if not missing else "\nInstall the missing packages: pip install -r requirements-full.txt")

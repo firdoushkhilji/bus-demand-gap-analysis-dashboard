@@ -1,0 +1,17 @@
+folium
+geopandas
+highspy
+jupyter
+matplotlib
+odfpy
+pandas
+plotly
+pulp
+pyarrow
+pydeck
+pyproj
+pytest
+scikit-learn
+scipy
+shapely
+streamlit
