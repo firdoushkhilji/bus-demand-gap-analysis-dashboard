@@ -4,6 +4,8 @@ MSc Data Science, 7005SCN Individual Research Project, Coventry University. Ethi
 
 Open data only, no machine-learning prediction. For each of England's 33,755 LSOAs the project builds a weighted demand-gap score, clusters areas by time-of-day service pattern (K-means), allocates buses with linear programming (PuLP/HiGHS) per region and time band, and shows the result in a Streamlit dashboard.
 
+**Live dashboard:** https://bus-demand-gap-analysis-dashboard.streamlit.app
+
 ## Quick start (dashboard only)
 The processed data the dashboard needs is already in `dashboard/data/`.
 
