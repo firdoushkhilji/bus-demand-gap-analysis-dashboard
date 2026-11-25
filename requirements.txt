@@ -3,6 +3,7 @@ geopandas
 highspy
 jupyter
 matplotlib
+odfpy
 pandas
 plotly
 pulp
