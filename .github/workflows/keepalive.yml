@@ -11,6 +11,6 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install playwright && playwright install --with-deps chromium
-      - run: python .github/keepalive.py
+      - run: python scripts/keepalive.py
         env:
           APP_URL: ${{ vars.APP_URL }}
